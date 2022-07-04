@@ -1,5 +1,5 @@
 import 'package:contactlists/constants/color_constants.dart';
-import 'package:contactlists/utils/utils.dart';
+
 import 'package:contactlists/view/list_container.dart';
 import 'package:flutter/material.dart';
 import '../models/contact_model.dart';
